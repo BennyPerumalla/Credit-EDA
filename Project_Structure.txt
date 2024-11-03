@@ -1,0 +1,17 @@
+CREDIT-EDA/
+│
+├── data/
+│   ├── application_data.csv
+│   ├── previous_application_data.csv
+│
+├── notebooks/
+│   └── EDA_Credit_Analysis.ipynb
+│
+├── src/
+│   ├── data_preprocessing.py
+│   ├── univariate_analysis.py
+│   ├── bivariate_analysis.py
+│   └── multivariate_analysis.py
+│
+├── requirements.txt
+└── README.md
